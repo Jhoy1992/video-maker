@@ -1,0 +1,22 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Open source project to make automatized videos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhoy1992/video-maker.git"
+  },
+  "author": "Jhonatan Ascari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jhoy1992/video-maker/issues"
+  },
+  "homepage": "https://github.com/Jhoy1992/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
